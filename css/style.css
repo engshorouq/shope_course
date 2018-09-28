@@ -1,0 +1,96 @@
+@charset "utf-8";
+@import url(http://fonts.googleapis.com/earlyaccess/droidarabickufi.css);
+body{
+	font-family:'Droid Arabic Kufi';
+	font-size:13px;
+	background-color:#CCC;
+	}
+.logo,.search,.auth-area,.contact{
+	
+	height:35px;
+	}
+	
+.logo{
+	background-color:#333333;
+	color:#FFF;
+	text-align:center;
+	}
+.logo div{
+	padding-top:7px;
+	}
+	
+	
+	.search div{
+			padding-top:5px;}
+	
+.search input{
+	border:none;
+	outline:none;
+	font-size:12px;
+	}
+
+.search span{
+	
+	color:#999;
+	}
+	
+	.auth-area{
+				padding-top:5px;
+				}
+				
+.auth-area div{
+	padding-top:5px;
+	}
+	
+.auth-area a{
+	
+	text-decoration:none;
+	font-size:12px
+	}
+	
+.menu{
+	
+	background-color:#F00;
+	}
+	
+.inner-menu{
+		padding:5px
+		}
+		
+.contact,.auth-area,.search{
+	background-color:#FFF;
+	}
+.white-box{
+	background-color:#FFF;
+	margin-top:10px;
+	border-width:1px;
+	border-style:solid;
+	border-color:#FFF;}
+	
+.about{
+	background-color:#FFF;}
+	
+.sep{
+	height:10px;}
+	
+	.gray_box{
+		border-color:#CCC;
+		border-style:solid;
+		border-width:1px;
+		text-align:center;
+		margin:7px;
+		
+		}
+		.sign-up input{
+			margin-bottom:5px;
+			margin-top:5px;
+		}
+
+
+
+
+
+
+
+
+
